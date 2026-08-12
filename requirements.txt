@@ -1,0 +1,6 @@
+python-telegram-bot==22.5
+google-genai
+edge-tts
+flask
+requests
+httpx
